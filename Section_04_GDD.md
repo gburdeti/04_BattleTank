@@ -22,6 +22,6 @@
 
 **Static mesh** : Simple tank comprising of tracks, body turret and barrel
 
-**Textures**: Add visula flare later on
+**Textures**: Add visual flare later on
 
 **Music**: Have some background music to create tension
